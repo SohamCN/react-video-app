@@ -4,7 +4,7 @@ import Video from 'twilio-video';
 import { Client as ConversationsClient } from '@twilio/conversations';
 import axios from 'axios';
 
-const API = 'http://localhost:4020';
+const API = 'https://api.pornyo.com';
 const CDN = 'https://cdn.pornyo.com/';
 
 // utility to hide admin identities (prefixed with admin_)
